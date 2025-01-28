@@ -1,4 +1,4 @@
-# Microsoft 365 Administration and Configuration Project
+# Microsoft 365 Identity and Services – Enterprise Administration
 
 ## Overview
 This project is a **hands-on case project** completed as part of the **Cloud Computing Technologies** course at **George Brown College**. The subject, **Microsoft 365 Identity and Services I – Enterprise Administration**, was taught under the mentorship of **Professor Arash Gooran** and **Professor Ali Ziyaei**. 
